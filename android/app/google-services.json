@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505159578380",
+    "project_id": "stash-panel",
+    "storage_bucket": "stash-panel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505159578380:android:f8c4c307e3f5135aa54f29",
+        "android_client_info": {
+          "package_name": "com.russellsoftworks.stashpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505159578380-v4e4etskuv3lbjvl9046fn5s67g3odk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkfNeDX4hff_RvR2f3sXt0q3lV0UDl0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505159578380-v4e4etskuv3lbjvl9046fn5s67g3odk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
